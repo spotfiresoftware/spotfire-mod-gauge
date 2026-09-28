@@ -1,0 +1,10 @@
+# exclude GitHub Actions workflow noise picked up from transitive dev dependencies' own CI configs
+# sbom-cataloger is opt-in (not a directory default); +add it to merge third-party/usgs-fgdc.spdx.json
+select-catalogers:
+  - "-github-actions-usage-cataloger"
+  - "-github-action-workflow-usage-cataloger"
+  - "+sbom-cataloger"
+
+# prevent sbom-cataloger from re-ingesting our own generated SBOM outputs as if they were inputs
+exclude:
+  - "./sbom.spdx.json"

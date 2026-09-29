@@ -1,0 +1,1248 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "gauge-mod@1.1.0",
+  "documentNamespace": "http://spdx.org/spdxdocs/gauge-mod-1.1.0-***",
+  "creationInfo": {
+    "created": "2026-09-29T13:45:46Z",
+    "creators": [
+      "Tool: npm/cli-11.6.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-Package-gauge-mod-1.1.0"
+  ],
+  "packages": [
+    {
+      "name": "gauge-mod",
+      "SPDXID": "SPDXRef-Package-gauge-mod-1.1.0",
+      "versionInfo": "1.1.0",
+      "packageFileName": "",
+      "primaryPackagePurpose": "LIBRARY",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "homepage": "NOASSERTION",
+      "licenseDeclared": "MOD EUA",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/gauge-mod@1.1.0"
+        }
+      ]
+    },
+    {
+      "name": "commander",
+      "SPDXID": "SPDXRef-Package-commander-2.20.3",
+      "versionInfo": "2.20.3",
+      "packageFileName": "node_modules/commander",
+      "description": "the complete solution for node.js command-line programs",
+      "downloadLocation": "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz",
+      "filesAnalyzed": false,
+      "homepage": "NOASSERTION",
+      "licenseDeclared": "MIT",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/commander@2.20.3"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "1a956498cf2f176bd05248f62ef6660f7e49c5e24e2c2c09f5c524ba0ca4da7ba16efdfe989be92d862dfb4f9448cc44fa88fe7b2fe52449e1670ef9c7f38c71"
+        }
+      ]
+    },
+    {
+      "name": "d3",
+      "SPDXID": "SPDXRef-Package-d3-5.16.0",
+      "versionInfo": "5.16.0",
+      "packageFileName": "node_modules/d3",
+      "description": "Data-Driven Documents",
+      "downloadLocation": "https://registry.npmjs.org/d3/-/d3-5.16.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3@5.16.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "e0f2f9847687c17e26ed9af551aa575b6ddaa68ea97b10a075eb5d2799139800e91bfed3f46931c34334b5ffe98e807addecc20a6d2ee54685632d9a32dd0c73"
+        }
+      ]
+    },
+    {
+      "name": "d3-array",
+      "SPDXID": "SPDXRef-Package-d3-array-1.2.4",
+      "versionInfo": "1.2.4",
+      "packageFileName": "node_modules/d3-array",
+      "description": "Array manipulation, ordering, searching, summarizing, etc.",
+      "downloadLocation": "https://registry.npmjs.org/d3-array/-/d3-array-1.2.4.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-array/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-array@1.2.4"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "2875ba33ce91f8550f6066f74795e26235cfabb573c31676d9bb878401151b9ceda0471964c2e8bf9df49a671c6aa0351a085902b8d0578e9fb9cf2452a8611f"
+        }
+      ]
+    },
+    {
+      "name": "d3-axis",
+      "SPDXID": "SPDXRef-Package-d3-axis-1.0.12",
+      "versionInfo": "1.0.12",
+      "packageFileName": "node_modules/d3-axis",
+      "description": "Displays automatic reference lines for scales.",
+      "downloadLocation": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.12.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-axis/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-axis@1.0.12"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "7a320d3df3d235d185284380b6706d764a6bdb87387788ec7a2e8b83df26c5fe36e22be80cfdbde7aff91c3a4802d987a3ce65a93e29aeecbecc482f45406a69"
+        }
+      ]
+    },
+    {
+      "name": "d3-brush",
+      "SPDXID": "SPDXRef-Package-d3-brush-1.1.6",
+      "versionInfo": "1.1.6",
+      "packageFileName": "node_modules/d3-brush",
+      "description": "Select a one- or two-dimensional region using the mouse or touch.",
+      "downloadLocation": "https://registry.npmjs.org/d3-brush/-/d3-brush-1.1.6.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-brush/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-brush@1.1.6"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "ed15bec3b1df3023f264b89f4f3fd49c9988e647645eda426e899b512b3cc67880ca8d2f21bac3cc3c14241e9e24e825f6ee4340eb764d0958ba6c730f54af60"
+        }
+      ]
+    },
+    {
+      "name": "d3-chord",
+      "SPDXID": "SPDXRef-Package-d3-chord-1.0.6",
+      "versionInfo": "1.0.6",
+      "packageFileName": "node_modules/d3-chord",
+      "description": "Visualize relationships or network flow with an aesthetically-pleasing circular layout.",
+      "downloadLocation": "https://registry.npmjs.org/d3-chord/-/d3-chord-1.0.6.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-chord/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-chord@1.0.6"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "2570360eba35171c3dac97b7dd4bfe0a4af922b01aef84e57c312113f8df2ce6977a03101504c0800c3d5a764bf3e1f154145769118292b354ee925eca5448b8"
+        }
+      ]
+    },
+    {
+      "name": "d3-collection",
+      "SPDXID": "SPDXRef-Package-d3-collection-1.0.7",
+      "versionInfo": "1.0.7",
+      "packageFileName": "node_modules/d3-collection",
+      "description": "Handy data structures for elements keyed by string.",
+      "downloadLocation": "https://registry.npmjs.org/d3-collection/-/d3-collection-1.0.7.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-collection/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-collection@1.0.7"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "8a2d3faf97f8b2328d4df87ce038be0e9ced630a8a844c9494aa0faf35057de4a45b18d6e3dc54d90ccef6aacfacd929748d172647f3be64eef15d99ca5967e8"
+        }
+      ]
+    },
+    {
+      "name": "d3-color",
+      "SPDXID": "SPDXRef-Package-d3-color-1.4.1",
+      "versionInfo": "1.4.1",
+      "packageFileName": "node_modules/d3-color",
+      "description": "Color spaces! RGB, HSL, Cubehelix, Lab and HCL (Lch).",
+      "downloadLocation": "https://registry.npmjs.org/d3-color/-/d3-color-1.4.1.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-color/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-color@1.4.1"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "a76b131d22c2248d902ae9db19bee870e87b0e04c09fc22b2f1db541173f0529e8757338b2fe9a2d09677e9bde84530b6447c173a83da47f5259071c1587c9f5"
+        }
+      ]
+    },
+    {
+      "name": "d3-contour",
+      "SPDXID": "SPDXRef-Package-d3-contour-1.3.2",
+      "versionInfo": "1.3.2",
+      "packageFileName": "node_modules/d3-contour",
+      "description": "Compute contour polygons using marching squares.",
+      "downloadLocation": "https://registry.npmjs.org/d3-contour/-/d3-contour-1.3.2.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-contour/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-contour@1.3.2"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "8683e9e0afeb242bb495a7621face6254133ebebb796047e1929bf41d336041bc3ada537f55afb61d0c289c25cc4fd73f22f41ff67492e00c2d4d72f945f160a"
+        }
+      ]
+    },
+    {
+      "name": "d3-dispatch",
+      "SPDXID": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "versionInfo": "1.0.6",
+      "packageFileName": "node_modules/d3-dispatch",
+      "description": "Register named callbacks and call them with arguments.",
+      "downloadLocation": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-1.0.6.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-dispatch/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-dispatch@1.0.6"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "7d58e8125ce3842132f876e7f0aca09e6312eceaf46bdb08d94cc6c2807b702b6f2355e954df46a686259dbdf1b76615ebaa1761bd5f2c9f0632f3f885d53544"
+        }
+      ]
+    },
+    {
+      "name": "d3-drag",
+      "SPDXID": "SPDXRef-Package-d3-drag-1.2.5",
+      "versionInfo": "1.2.5",
+      "packageFileName": "node_modules/d3-drag",
+      "description": "Drag and drop SVG, HTML or Canvas using mouse or touch input.",
+      "downloadLocation": "https://registry.npmjs.org/d3-drag/-/d3-drag-1.2.5.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-drag/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-drag@1.2.5"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "ac3d6886590a4303196244256150ab485c6c58fcc8f7bf96f8f68420135333146ec73f511741e2e672561c6549dce9bd7767d14ded7238120d272cbf6a157de7"
+        }
+      ]
+    },
+    {
+      "name": "d3-dsv",
+      "SPDXID": "SPDXRef-Package-d3-dsv-1.2.0",
+      "versionInfo": "1.2.0",
+      "packageFileName": "node_modules/d3-dsv",
+      "description": "A parser and formatter for delimiter-separated values, such as CSV and TSV",
+      "downloadLocation": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.2.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-dsv/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-dsv@1.2.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "f72565aaf65c48e321098ce788713b115530b3b15ad73830fbf1005760712681b7304d7d57a050141c08f39e57403b31c8eb86ecd89ba91313b6217f42ea78ea"
+        }
+      ]
+    },
+    {
+      "name": "d3-ease",
+      "SPDXID": "SPDXRef-Package-d3-ease-1.0.7",
+      "versionInfo": "1.0.7",
+      "packageFileName": "node_modules/d3-ease",
+      "description": "Easing functions for smooth animation.",
+      "downloadLocation": "https://registry.npmjs.org/d3-ease/-/d3-ease-1.0.7.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-ease/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-ease@1.0.7"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "971d7864f62484dc74b3fd875f9b0b15423799b6ac1e3492a703bf29a68d002c1e570c54aee2b259571bdbddf032fd51a933d9c99f24499d8da2051935c2ce15"
+        }
+      ]
+    },
+    {
+      "name": "d3-fetch",
+      "SPDXID": "SPDXRef-Package-d3-fetch-1.2.0",
+      "versionInfo": "1.2.0",
+      "packageFileName": "node_modules/d3-fetch",
+      "description": "Convenient parsing for Fetch.",
+      "downloadLocation": "https://registry.npmjs.org/d3-fetch/-/d3-fetch-1.2.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-fetch/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-fetch@1.2.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "c82efc34155c776cc503247f1e7522052ecb7fa8a7482a16712c457f0f0560bef2762a9ef3449accdc287df72a39fb3de5768ba3bc9e6ec990a83292b1752dbc"
+        }
+      ]
+    },
+    {
+      "name": "d3-force",
+      "SPDXID": "SPDXRef-Package-d3-force-1.2.1",
+      "versionInfo": "1.2.1",
+      "packageFileName": "node_modules/d3-force",
+      "description": "Force-directed graph layout using velocity Verlet integration.",
+      "downloadLocation": "https://registry.npmjs.org/d3-force/-/d3-force-1.2.1.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-force/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-force@1.2.1"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "1c7bde8726a2525568e42c41274c85ff19f2e31a1ac45c439c15cdbcd71f5bd69d3911997f2345d5d8fa0c62caca4e188776eb3ffd61deb9c3cdd200c0bd3cce"
+        }
+      ]
+    },
+    {
+      "name": "d3-format",
+      "SPDXID": "SPDXRef-Package-d3-format-1.4.5",
+      "versionInfo": "1.4.5",
+      "packageFileName": "node_modules/d3-format",
+      "description": "Format numbers for human consumption.",
+      "downloadLocation": "https://registry.npmjs.org/d3-format/-/d3-format-1.4.5.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-format/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-format@1.4.5"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "274a6279dbba67c881e936c819f6600f37d7c5414ddea4113287f2da83dd5f34226d81aa3c1ffd88c731aff4c66a553ed91b320cef94e1fdf789df2d6e749131"
+        }
+      ]
+    },
+    {
+      "name": "d3-geo",
+      "SPDXID": "SPDXRef-Package-d3-geo-1.12.1",
+      "versionInfo": "1.12.1",
+      "packageFileName": "node_modules/d3-geo",
+      "description": "Shapes and calculators for spherical coordinates.",
+      "downloadLocation": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.12.1.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-geo/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-geo@1.12.1"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "5c6e1dd5cfd4252117f4d7d4d362b004be8160f8fc60a1f1801130e689b66674d149b21c7a0a3a7611f0731b92477725c61d04a44dfca2cd4354f3a69d8b533e"
+        }
+      ]
+    },
+    {
+      "name": "d3-hierarchy",
+      "SPDXID": "SPDXRef-Package-d3-hierarchy-1.1.9",
+      "versionInfo": "1.1.9",
+      "packageFileName": "node_modules/d3-hierarchy",
+      "description": "Layout algorithms for visualizing hierarchical data.",
+      "downloadLocation": "https://registry.npmjs.org/d3-hierarchy/-/d3-hierarchy-1.1.9.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-hierarchy/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-hierarchy@1.1.9"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "8fcb4fc65aa1d6cac91c0b717ef394c0a35826442e04574cd7e24051fabac6a1f9780a9ff772fba06d4d56a0dae02a4564dbe734ab42604502f0a63dc849fd95"
+        }
+      ]
+    },
+    {
+      "name": "d3-interpolate",
+      "SPDXID": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "versionInfo": "1.4.0",
+      "packageFileName": "node_modules/d3-interpolate",
+      "description": "Interpolate numbers, colors, strings, arrays, objects, whatever!",
+      "downloadLocation": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.4.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-interpolate/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-interpolate@1.4.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "57dce72b4cdcde338f578543db3667d2c0e1654dd6004d9b9a5c5d230c103cfccf8efc8b91df01dc9515752d480d414391667bd9cf6a9efd462b665a81367c10"
+        }
+      ]
+    },
+    {
+      "name": "d3-path",
+      "SPDXID": "SPDXRef-Package-d3-path-1.0.9",
+      "versionInfo": "1.0.9",
+      "packageFileName": "node_modules/d3-path",
+      "description": "Serialize Canvas path commands to SVG.",
+      "downloadLocation": "https://registry.npmjs.org/d3-path/-/d3-path-1.0.9.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-path/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-path@1.0.9"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "54b698727f3576d1d54e310777c07ea5b7bdc875a95ca6540bcecfce8166b05ac9aa01700defeac5fa793257ec7ccd55e44fe256dd0c9846d643b15521787f6e"
+        }
+      ]
+    },
+    {
+      "name": "d3-polygon",
+      "SPDXID": "SPDXRef-Package-d3-polygon-1.0.6",
+      "versionInfo": "1.0.6",
+      "packageFileName": "node_modules/d3-polygon",
+      "description": "Operations for two-dimensional polygons.",
+      "downloadLocation": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-1.0.6.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-polygon/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-polygon@1.0.6"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "93e445ed6bc8d3c3c2f2b784a176bfc369d28390143138bea5e043f5c98573ed22c477dbb38426c7191aad56a5d48915920c55ba4f494878495111e2c87280b9"
+        }
+      ]
+    },
+    {
+      "name": "d3-quadtree",
+      "SPDXID": "SPDXRef-Package-d3-quadtree-1.0.7",
+      "versionInfo": "1.0.7",
+      "packageFileName": "node_modules/d3-quadtree",
+      "description": "Two-dimensional recursive spatial subdivision.",
+      "downloadLocation": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-1.0.7.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-quadtree/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-quadtree@1.0.7"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "44a3c07979e40b9f480c60f45aee6600dcb4436576f0bf9f35eeb9a4e09755d56e4c94b758f29a2651477abdf645b87d808a3da8cb895e2a3cadae3e62623298"
+        }
+      ]
+    },
+    {
+      "name": "d3-random",
+      "SPDXID": "SPDXRef-Package-d3-random-1.1.2",
+      "versionInfo": "1.1.2",
+      "packageFileName": "node_modules/d3-random",
+      "description": "Generate random numbers from various distributions.",
+      "downloadLocation": "https://registry.npmjs.org/d3-random/-/d3-random-1.1.2.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-random/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-random@1.1.2"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "e802b904da4816a3fe731fecade2b336359bc194024946adc6afa93d1985210696ba80fe36b6d55b0ed85a91e25e9090fcd6a729db460ee07e5507190da12661"
+        }
+      ]
+    },
+    {
+      "name": "d3-scale",
+      "SPDXID": "SPDXRef-Package-d3-scale-2.2.2",
+      "versionInfo": "2.2.2",
+      "packageFileName": "node_modules/d3-scale",
+      "description": "Encodings that map abstract data to visual representation.",
+      "downloadLocation": "https://registry.npmjs.org/d3-scale/-/d3-scale-2.2.2.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-scale/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-scale@2.2.2"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "2db784bc68086fc50c7006b41004cb357d257a52961980d088f7478fe80b6e51958462f235b6829f712fac97f403763fb8e394e5a0fa31387964509d1301a20b"
+        }
+      ]
+    },
+    {
+      "name": "d3-scale-chromatic",
+      "SPDXID": "SPDXRef-Package-d3-scale-chromatic-1.5.0",
+      "versionInfo": "1.5.0",
+      "packageFileName": "node_modules/d3-scale-chromatic",
+      "description": "Sequential, diverging and categorical color schemes.",
+      "downloadLocation": "https://registry.npmjs.org/d3-scale-chromatic/-/d3-scale-chromatic-1.5.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-scale-chromatic/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-scale-chromatic@1.5.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "00270be3a0d8226a5114c05ca64f4786d2320bb6d3051e1f34e3f1c154a5d0b7ee943030ca21f23ce4ea7031b5fade5de0ff56eedff6340b96bb9f5a2a4a3f72"
+        }
+      ]
+    },
+    {
+      "name": "d3-selection",
+      "SPDXID": "SPDXRef-Package-d3-selection-1.4.2",
+      "versionInfo": "1.4.2",
+      "packageFileName": "node_modules/d3-selection",
+      "description": "Data-driven DOM manipulation: select elements and join them to data.",
+      "downloadLocation": "https://registry.npmjs.org/d3-selection/-/d3-selection-1.4.2.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-selection/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-selection@1.4.2"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "489d01a988a1cce8c39e795fc9e1d3d1edf49342b5fb9b11ddde5f36e78235eba16539c6c38338a3c9aa25c852c2028c5c2345a3e7b65530a1892274bd8b5792"
+        }
+      ]
+    },
+    {
+      "name": "d3-shape",
+      "SPDXID": "SPDXRef-Package-d3-shape-1.3.7",
+      "versionInfo": "1.3.7",
+      "packageFileName": "node_modules/d3-shape",
+      "description": "Graphical primitives for visualization, such as lines and areas.",
+      "downloadLocation": "https://registry.npmjs.org/d3-shape/-/d3-shape-1.3.7.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-shape/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-shape@1.3.7"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "11492f2a3a8f154019c8e9616398330b109e23401ea74e0bc08469b19fe62c57a526251f9cae7a8e8e49303484ef2c8fda42d26fa2ed17e4b9721324eeea8fab"
+        }
+      ]
+    },
+    {
+      "name": "d3-time",
+      "SPDXID": "SPDXRef-Package-d3-time-1.1.0",
+      "versionInfo": "1.1.0",
+      "packageFileName": "node_modules/d3-time",
+      "description": "A calculator for humanity’s peculiar conventions of time.",
+      "downloadLocation": "https://registry.npmjs.org/d3-time/-/d3-time-1.1.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-time/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-time@1.1.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "5e1d22b2b679acf61876a840564f152e730489d873e5a3fb86d0000c7e8c7f38269a270f913a3c2e190bc5c8bad7f94207b9fb5261376cdd25791b7eaaf90bc4"
+        }
+      ]
+    },
+    {
+      "name": "d3-time-format",
+      "SPDXID": "SPDXRef-Package-d3-time-format-2.3.0",
+      "versionInfo": "2.3.0",
+      "packageFileName": "node_modules/d3-time-format",
+      "description": "A JavaScript time formatter and parser inspired by strftime and strptime.",
+      "downloadLocation": "https://registry.npmjs.org/d3-time-format/-/d3-time-format-2.3.0.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-time-format/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-time-format@2.3.0"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "82ebfa6f61f7eecd94abf19e7e57820ed6ded17640bb2ed66b8f551a43d53cc7cb2fda8e6e00524f79441c904c529f12ecd74b400188bebd8a5e4f0773df2229"
+        }
+      ]
+    },
+    {
+      "name": "d3-timer",
+      "SPDXID": "SPDXRef-Package-d3-timer-1.0.10",
+      "versionInfo": "1.0.10",
+      "packageFileName": "node_modules/d3-timer",
+      "description": "An efficient queue capable of managing thousands of concurrent animations.",
+      "downloadLocation": "https://registry.npmjs.org/d3-timer/-/d3-timer-1.0.10.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-timer/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-timer@1.0.10"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "0752439b45c36900bebafa380d3efd1f45e606c9204b797a55efb548109fc609ad21bd4056b3c8a2a77e9cf4affa5a0c5fcb33434b155211a780bec3e503e25f"
+        }
+      ]
+    },
+    {
+      "name": "d3-transition",
+      "SPDXID": "SPDXRef-Package-d3-transition-1.3.2",
+      "versionInfo": "1.3.2",
+      "packageFileName": "node_modules/d3-transition",
+      "description": "Animated transitions for D3 selections.",
+      "downloadLocation": "https://registry.npmjs.org/d3-transition/-/d3-transition-1.3.2.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-transition/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-transition@1.3.2"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "b1cd20454e0f16a678ee53d51e5a0c9fdb653dcbfc8f180e420fb4ce385f657310bafa698c6e98bb074c044d13baa0998de2642de724bbf97d47424f71185a0c"
+        }
+      ]
+    },
+    {
+      "name": "d3-voronoi",
+      "SPDXID": "SPDXRef-Package-d3-voronoi-1.1.4",
+      "versionInfo": "1.1.4",
+      "packageFileName": "node_modules/d3-voronoi",
+      "description": "Compute the Voronoi diagram of a set of two-dimensional points.",
+      "downloadLocation": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.1.4.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-voronoi/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-voronoi@1.1.4"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "740ac9df685c845b2b43cb8c89304bab6e7a3299d98deb81b5d1e9683958b90ca3534095cc2265fc1556f9292ccda01e1fde43ffc831a80860c74a2e01601f46"
+        }
+      ]
+    },
+    {
+      "name": "d3-zoom",
+      "SPDXID": "SPDXRef-Package-d3-zoom-1.8.3",
+      "versionInfo": "1.8.3",
+      "packageFileName": "node_modules/d3-zoom",
+      "description": "Pan and zoom SVG, HTML or Canvas using mouse or touch input.",
+      "downloadLocation": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.8.3.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://d3js.org/d3-zoom/",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/d3-zoom@1.8.3"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "5682d74cae30bf2d5ad09a47d8897e1760a23a156eed5457585e4cfcbae8308877ff30400b7580b7b42822f3e26ce6af568db484debfdfbbf002c7417a32f229"
+        }
+      ]
+    },
+    {
+      "name": "preact",
+      "SPDXID": "SPDXRef-Package-preact-10.7.1",
+      "versionInfo": "10.7.1",
+      "packageFileName": "node_modules/preact",
+      "description": "Fast 3kb React-compatible Virtual DOM library.",
+      "downloadLocation": "https://registry.npmjs.org/preact/-/preact-10.7.1.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://preactjs.com",
+      "licenseDeclared": "MIT",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/preact@10.7.1"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "32e7e7445cf7f5a221b3d00c162b289e3cd3b9dd4f2b56d8fa37092e8ea6d93f5487c02a8c3efbc35d5e0006b09a352882818e9e2a440aaedeff54429482acc6"
+        }
+      ]
+    },
+    {
+      "name": "rw",
+      "SPDXID": "SPDXRef-Package-rw-1.3.3",
+      "versionInfo": "1.3.3",
+      "packageFileName": "node_modules/rw",
+      "description": "Now stdin and stdout are files.",
+      "downloadLocation": "https://registry.npmjs.org/rw/-/rw-1.3.3.tgz",
+      "filesAnalyzed": false,
+      "homepage": "https://github.com/mbostock/rw",
+      "licenseDeclared": "BSD-3-Clause",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/rw@1.3.3"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "3dd85d5b2f3d4a26688012dac38db375eaad449fffcc57763e041abdc2020d48094f9a16d7440244a6c9e9b838af4fd463633a056779b64c6e18546f0a481f1d"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Package-gauge-mod-1.1.0",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-5.16.0",
+      "relatedSpdxElement": "SPDXRef-Package-gauge-mod-1.1.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-preact-10.7.1",
+      "relatedSpdxElement": "SPDXRef-Package-gauge-mod-1.1.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-array-1.2.4",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-axis-1.0.12",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-brush-1.1.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-chord-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-collection-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-color-1.4.1",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-contour-1.3.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-drag-1.2.5",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dsv-1.2.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-ease-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-fetch-1.2.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-force-1.2.1",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-format-1.4.5",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-geo-1.12.1",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-hierarchy-1.1.9",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-path-1.0.9",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-polygon-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-quadtree-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-random-1.1.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-scale-2.2.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-scale-chromatic-1.5.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-selection-1.4.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-shape-1.3.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-time-1.1.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-time-format-2.3.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-timer-1.0.10",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-transition-1.3.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-voronoi-1.1.4",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-zoom-1.8.3",
+      "relatedSpdxElement": "SPDXRef-Package-d3-5.16.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-brush-1.1.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-drag-1.2.5",
+      "relatedSpdxElement": "SPDXRef-Package-d3-brush-1.1.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-brush-1.1.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-selection-1.4.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-brush-1.1.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-transition-1.3.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-brush-1.1.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-array-1.2.4",
+      "relatedSpdxElement": "SPDXRef-Package-d3-chord-1.0.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-path-1.0.9",
+      "relatedSpdxElement": "SPDXRef-Package-d3-chord-1.0.6",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-array-1.2.4",
+      "relatedSpdxElement": "SPDXRef-Package-d3-contour-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-drag-1.2.5",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-selection-1.4.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-drag-1.2.5",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-commander-2.20.3",
+      "relatedSpdxElement": "SPDXRef-Package-d3-dsv-1.2.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-rw-1.3.3",
+      "relatedSpdxElement": "SPDXRef-Package-d3-dsv-1.2.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dsv-1.2.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-fetch-1.2.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-collection-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-force-1.2.1",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-force-1.2.1",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-quadtree-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-force-1.2.1",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-timer-1.0.10",
+      "relatedSpdxElement": "SPDXRef-Package-d3-force-1.2.1",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-array-1.2.4",
+      "relatedSpdxElement": "SPDXRef-Package-d3-geo-1.12.1",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-color-1.4.1",
+      "relatedSpdxElement": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-array-1.2.4",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-2.2.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-collection-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-2.2.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-format-1.4.5",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-2.2.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-2.2.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-time-1.1.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-2.2.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-time-format-2.3.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-2.2.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-color-1.4.1",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-chromatic-1.5.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-scale-chromatic-1.5.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-path-1.0.9",
+      "relatedSpdxElement": "SPDXRef-Package-d3-shape-1.3.7",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-time-1.1.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-time-format-2.3.0",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-color-1.4.1",
+      "relatedSpdxElement": "SPDXRef-Package-d3-transition-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-transition-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-ease-1.0.7",
+      "relatedSpdxElement": "SPDXRef-Package-d3-transition-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-transition-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-selection-1.4.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-transition-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-timer-1.0.10",
+      "relatedSpdxElement": "SPDXRef-Package-d3-transition-1.3.2",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-dispatch-1.0.6",
+      "relatedSpdxElement": "SPDXRef-Package-d3-zoom-1.8.3",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-drag-1.2.5",
+      "relatedSpdxElement": "SPDXRef-Package-d3-zoom-1.8.3",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-interpolate-1.4.0",
+      "relatedSpdxElement": "SPDXRef-Package-d3-zoom-1.8.3",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-selection-1.4.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-zoom-1.8.3",
+      "relationshipType": "DEPENDENCY_OF"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-d3-transition-1.3.2",
+      "relatedSpdxElement": "SPDXRef-Package-d3-zoom-1.8.3",
+      "relationshipType": "DEPENDENCY_OF"
+    }
+  ]
+}

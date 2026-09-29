@@ -16,7 +16,7 @@
     "author": "objerke, ebrandin",
     "license": "MOD EUA",
     "dependencies": {
-        "d3": "^5.14.2",
+        "d3": "^7.0.0",
         "preact": "10.7.1"
     },
     "devDependencies": {
